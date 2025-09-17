@@ -32,3 +32,9 @@ App desplegada en Render
 Repositorio: Ver Código
 
 Aplicación en Vivo: Abrir App
+
+📬 Contacto
+
+Si deseas ver más de mi trabajo o colaborar en proyectos:
+📧 Email: oscar055glez@gmail.com (Pendiente de crear uno nuevo)
+💼 LinkedIn: Pendiente de crear
