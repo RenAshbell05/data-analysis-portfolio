@@ -34,7 +34,7 @@ Machine Learning — Scikit-Learn
 ---
 
 ### 📫 Contacto
-📌 LinkedIn: www.linkedin.com/in/valencia-gonzález-óscar-alejandro-857255399/  
+📌 LinkedIn: https://www.linkedin.com/in/óscar-alejandro-valencia-gonzalez-857255399/
 📌 Portafolio en GitHub (data-analysis-portfolio): este perfil
 📂 Tripleten – Portafolio de Proyectos
 
